@@ -1,0 +1,16 @@
+6
+6
+5
+21
+6
+0
+0
+0
+EstrategiaTresEnLinea
+D8 C2 C3 C4 C5 C6
+R3 D8 C4 C5 C6 C2
+V3 C1 D8 C2 C5 C4
+V1 C1 C3 D8 C5 C5
+C3 C3 C4 C2 D8 R5
+C1 C2 C2 C3 V2 D8
+
